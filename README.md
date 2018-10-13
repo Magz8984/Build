@@ -4,15 +4,17 @@ gradle managed java apps.
 
 
 ## Version
-1.0
+1.1.1
 
 ## How It Works
 
 The application accepts two arguments from version 1.0
 
--v : Shows current running  version of the build 
+-v : Shows current running  version of the build
 
 build : Building The File Structure
+
+spark : Make sure you navigate to the project directory to make your gradle app a spark project :fire:
 
 
 ## Installation
@@ -46,17 +48,3 @@ Collins Magondu
 ## LICENSE
 
 TO GET LICENSE CLICK [HERE](LICENSE);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
