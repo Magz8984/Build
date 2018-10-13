@@ -1,19 +1,20 @@
-apply plugin : 'java'
+apply plugin : 'wew'
 
-applicationName='Build'
+applicationName='wdwed'
 
-version='1.0'
+version='wdwe'
 
-mainClassName='App'
+mainClassName='wdw'
 
-archivesBaseName='Build'
+archivesBaseName='wed'
 
 repositories{
-mavenCentral()
+wdwe()
 }
 
 dependencies{
-testCompile group :'junit', name :'junit', version :'4.+'
+dsre group :'wew', name :'wew', version :'wew'
+wwe group :'we', name :'wee', version :'weew'
 }
 
 defaultTasks=['clean']
