@@ -1,7 +1,4 @@
 *.c
 Procfile
 *.gradle
-css/
-images/
 *.h
-*.html
