@@ -2,12 +2,12 @@
 FILE *file;
 FILE *procfile;
 int init(){
-  file=fopen("build.gradle","wb");
+  file=fopen("build.gradle","w+");
   return 0;
 }
 
 int initProcFile(){
-  procfile=fopen("Procfile","wb");
+  procfile=fopen("Procfile","w+");
   return 0;
 }
 
