@@ -13,8 +13,7 @@ The application accepts two arguments from version 1.0
 -v : Shows current running  version of the build
 
 build : Building The File Structure
-
-spark : Make sure you navigate to the project directory to make your gradle app a spark project :fire:
+gradle : Make sure you navigate to the project directory to make your gradle app a spark project :fire:
 
 
 ## Installation
